@@ -1,0 +1,24 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# Diversion version control
+.diversion/
+.dvignore
+.ignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/debug files
+*.log
